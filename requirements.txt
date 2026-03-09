@@ -2,4 +2,4 @@ streamlit
 pandas
 matplotlib
 plotly==5.22.0
-prophet==1.1.0
+prophet==1.1.1
